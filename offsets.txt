@@ -1,0 +1,18 @@
+"FakeDataModelPointer": 0x84a9e98,
+"FakeDataModelToDataModel": 0x1d0,
+
+"VisualEnginePointer": 0x81d61c8,
+"viewmatrix": 0x150,
+
+"Children": 0x70,
+"Name": 0x98,
+"DisplayName": 0xb8,
+"LocalPlayer": 0x130,
+"ModelInstance": 0x298,
+"Team": 0x2d8,
+
+"Primitive": 0x128,
+"Position": 0xec,
+
+"Health": 0x188,
+"MaxHealth": 0x1a8
