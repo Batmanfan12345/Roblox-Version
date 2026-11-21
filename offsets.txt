@@ -1,6 +1,6 @@
-"FakeDataModelPointer" : 0x8f8e968,
+"FakeDataModelPointer" : 0x8e16368,
 "FakeDataModelToDataModel" : 0x1f8,
-"VisualEnginePointer" : 0x8a11808,
+"VisualEnginePointer" : 0x8896b98,
 "ViewMatrix" : 0x1b0,
 "ChildrenStart" : 0x70,
 "ChildrenEnd" : 0x8,
